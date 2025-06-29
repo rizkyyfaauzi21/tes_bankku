@@ -9,7 +9,7 @@
             <div class="w-full md:col-span-2">
                 <div class="flex justify-between items-center mb-3">
                     <h2 class="text-lg font-semibold text-[#343C6A]">My Cards</h2>
-                    <h2 class="text-md font-semibold text-[#343C6A] hidden md:block">See All</h2>
+                    <h2 class="text-md font-semibold text-[#343C6A] flex">See All</h2>
                 </div>
 
                 <div
